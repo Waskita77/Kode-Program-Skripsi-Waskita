@@ -1,4 +1,3 @@
 Repository ini berisikan kode pemrograman yang digunakan dalam skripsi berjudul "PENERAPAN TRANSFER ENSEMBLE LEARNING UNTUK EVALUASI METODE MACHINE LEARNING DALAM KLASIFIKASI PENUTUP DAN PENGGUNAAN LAHAN SKALA BESAR"
 
-DItulis oleh:
-Waskita Abdillah Rafiqi
+~Waskita Abdillah Rafiqi
