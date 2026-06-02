@@ -65,9 +65,7 @@ Some geospatial preprocessing steps, such as NDVI generation, raster stacking, r
 
 This repository contains the original code archive used for the implementation of my undergraduate thesis.
 
-The original PlanetScope imagery, government-provided land-cover and land-use reference data, intermediate raster products, sampled CSV datasets, trained model files, and generated classification maps are not included in this repository due to file size, data access restrictions, and redistribution limitations.
-
-The ground truth data used in this research was obtained from government-provided land-cover and land-use data and is therefore not publicly redistributed through this repository.
+The original PlanetScope imagery, government-provided land-cover and land-use reference data used as ground truth, intermediate raster products, sampled CSV datasets, trained model files, and generated classification maps are not included in this repository due to file size, data access restrictions, and redistribution limitations.
 
 Several geospatial preprocessing steps, including NDVI generation, raster stacking, rasterization, and sample extraction, were conducted using ArcGIS Pro and QGIS before the Python-based machine learning workflow.
 
