@@ -78,6 +78,9 @@ This domain shift is confirmed analytically via Linear Discriminant Analysis (LD
 
 Tree-based models (T-3, T-4, E-2) dominate strong accuracy with practical inference times.
 
+![Inference maps baseline (Dove-R 2019)](assets/fig_baseline_area1.png)
+*Baseline classification results on the source domain. All models perform well; T-4 and E-2/E-3 produce the cleanest spatial outputs.*
+
 ### Zero-shot transfer (SuperDove 2024, no adaptation)
 
 | Model | OA | F1-score |
@@ -150,5 +153,5 @@ Fine-tuning successfully recovers performance. T-4 (XGBoost) achieves the highes
 ## Author
 
 **Waskita Abdillah Rafiqi**  
-B.Sc. Cartography and Remote Sensing, Universitas Gadjah Mada, 3.30/4.00
+B.Sc. Cartography and Remote Sensing, Universitas Gadjah Mada, 3.30/4.00  
 [LinkedIn](https://linkedin.com/in/waskita-abdillah-rafiqi) · [Published Thesis](https://etd.repository.ugm.ac.id/penelitian/detail/269359)
