@@ -150,5 +150,5 @@ Fine-tuning successfully recovers performance. T-4 (XGBoost) achieves the highes
 ## Author
 
 **Waskita Abdillah Rafiqi**  
-B.Sc. Cartography and Remote Sensing, Universitas Gadjah Mada, 3.30/4.00  
+B.Sc. Cartography and Remote Sensing, Universitas Gadjah Mada, 3.30/4.00
 [LinkedIn](https://linkedin.com/in/waskita-abdillah-rafiqi) · [Published Thesis](https://etd.repository.ugm.ac.id/penelitian/detail/269359)
